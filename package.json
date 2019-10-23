@@ -1,0 +1,15 @@
+{
+  "name": "sryoo.gay-time",
+  "title": "Golden Gaytime",
+  "description": "This is a rainbow theme. It is a golden gaytime.",
+  "homepage": "https://github.com/seongryoo/Golden-Gaytime-Brackets-Theme",
+  "version": "1.0.0",
+  "author": "Seong Ryoo <seongryoo@gmail.com> (http://seongryoo.github.io)",
+  "license": "MIT",
+  "theme": {
+    "file": "theme.less",
+    "dark": true,
+    "addModeClass": true
+  },
+  "keywords": ["theme"]
+}
