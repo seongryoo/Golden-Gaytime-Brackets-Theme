@@ -1,5 +1,7 @@
 # Golden Gaytime: A theme for Adobe Brackets
 
+![An animated demonstration of the golden gaytime theme for brackets](in-action.gif)
+
 ## Description
 This is a gay theme for the Adobe Brackets web development environment. It is gay.
 
