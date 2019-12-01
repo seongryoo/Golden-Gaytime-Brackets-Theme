@@ -14,4 +14,4 @@ You can download this theme like any other Brackets extension by searching throu
 
 Then, navigate to View > Themes. Golden Gaytime should appear as one of the selectable themes.
 
-Happy coding!
+Code with pride! <3
